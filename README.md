@@ -1,4 +1,4 @@
-# XeroxChat - Production-Grade Real-Time Chat Application
+#  Real-Time Chat Application
 
 A production-ready real-time chat application built with **Node.js, Express.js, Socket.IO, and TypeScript**. Designed for **long-term maintainability, scalability, and enterprise-grade quality**.
 
@@ -664,28 +664,13 @@ npm run build
 | Supported Node | >=18.0.0 |
 | Production Ready | Yes |
 
-## License
 
-ISC - See LICENSE file for details
-
-## Author
-
-**Mehedi Islam Ripon**
-
-### Contributions & Support
-
-- Star this repo if you find it helpful!
-- Report bugs via GitHub Issues
-- Discuss improvements in Discussions
-- Submit PRs for new features
-
----
 
 **Last Updated:** January 2026  
-**Version:** 2.0.0 (Production-Grade Release)
+
 
 ---
 
 <p align="center">
-  Built with ❤️ using TypeScript, Express.js, and Socket.IO
+  Built with ❤️ 
 </p>
